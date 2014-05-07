@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antix.Blackhole", "Antix.Blackhole\Antix.Blackhole.csproj", "{09AB06C2-B9FB-45BB-97AF-D4A753B7E2BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antix.Blackhole.Tests", "Antix.Blackhole.Tests\Antix.Blackhole.Tests.csproj", "{62584CCA-DCA0-460B-9608-732606CE9C4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AB06C2-B9FB-45BB-97AF-D4A753B7E2BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AB06C2-B9FB-45BB-97AF-D4A753B7E2BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AB06C2-B9FB-45BB-97AF-D4A753B7E2BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AB06C2-B9FB-45BB-97AF-D4A753B7E2BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62584CCA-DCA0-460B-9608-732606CE9C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62584CCA-DCA0-460B-9608-732606CE9C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62584CCA-DCA0-460B-9608-732606CE9C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62584CCA-DCA0-460B-9608-732606CE9C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
