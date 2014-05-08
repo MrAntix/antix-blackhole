@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Antix.Blackhole</id>
+    <version>$version$</version>
+    <title>Antix Blackhole</title>
+    <authors>Anthony Johnston</authors>
+    <owners>Antix Software Limited</owners>
+    <licenseUrl>https://raw.github.com/MrAntix/antix-blackhole/master/LICENCE.md</licenseUrl>
+    <projectUrl>https://github.com/MrAntix/antix-blackhole/</projectUrl>
+    <iconUrl>https://raw.github.com/MrAntix/antix-blackhole/master/graphics/antix-blackhole-32x32.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Antix Blackhole</description>
+    <copyright>Too simple template engine</copyright>
+    <tags>templating, placeholder replacement</tags>
+  </metadata>
+  <files>
+    <file src="bin\Debug\*.dll" target="lib\net40" />
+  </files>
+</package>
